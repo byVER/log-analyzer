@@ -145,8 +145,8 @@ Syslog messages, parse nested JSON, and load the data into the ClickHouse `defau
 1. **Clone the repository:**
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_PROJECT_NAME>
+git clone git@github.com:byVER/log-analyzer.git
+cd git@github.com:byVER/log-analyzer.git
 ```
 
 2. **Build the project:**
